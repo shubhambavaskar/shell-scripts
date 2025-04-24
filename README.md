@@ -1,5 +1,4 @@
 all shell-scripts
-![image](https://github.com/user-attachments/assets/85d8bfea-0702-428d-afb6-36819023c1cd)
 
 #!/bin/bash
 
@@ -12,7 +11,7 @@ echo "Memory Usage:"; free -h
 echo "Disk Usage:"; df -h
 echo "Uptime:"; uptime
 
-<bq>
+
 ######################################
 # 2. Service Status Checker
 ######################################
