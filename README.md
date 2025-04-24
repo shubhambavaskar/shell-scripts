@@ -136,4 +136,4 @@ df -h | awk 'NR>1{if($5+0 > 80) print $0}'
 # 15. Cleanup Script
 ######################################
 find /tmp -type f -mtime +5 -exec rm -f {} \;
-echo "Old files deleted from /tmp"
+echo "Old files deleted from /tmp".
