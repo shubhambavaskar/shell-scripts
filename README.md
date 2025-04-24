@@ -12,7 +12,7 @@ echo "Memory Usage:"; free -h
 echo "Disk Usage:"; df -h
 echo "Uptime:"; uptime
 
-
+<bq>
 ######################################
 # 2. Service Status Checker
 ######################################
